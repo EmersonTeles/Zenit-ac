@@ -37,6 +37,8 @@ h1{
   display: flex;
   flex-direction: row;
   align-items: center;
+  border-radius: 2.5vh;
+  
 }
 .Progress{
   height: 100%;
@@ -45,6 +47,7 @@ h1{
   display: flex;
   justify-content: center;
   align-items: center;
+  border-radius: 2.5vh;
 }
 h2{
   color: brown;
@@ -53,6 +56,7 @@ h2{
 }
 .percent{
   color: dimgrey;
+  font-weight: 600;
 }
 h3{
   color: white;
