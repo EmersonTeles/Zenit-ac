@@ -11,9 +11,9 @@ function App() {
         <h1>Status Bar em busca do AC</h1>
         <div className="StatusBar">
           <div className="Progress">
-              <h3>R$14.347,00</h3>
+              <h3>R$14.497,00</h3>
           </div>
-          <h3 className="percent">58%</h3>
+          <h3 className="percent">59%</h3>
         </div>
         <h2>META: R$24.361,00</h2>
       </div>
