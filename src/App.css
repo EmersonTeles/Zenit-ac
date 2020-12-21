@@ -44,7 +44,7 @@ h1{
 .Progress{
   height: 100%;
   width: 61%;
-  background-color: darkorange;
+  background-color: rgb(17, 223, 103);
   display: flex;
   justify-content: center;
   align-items: center;
