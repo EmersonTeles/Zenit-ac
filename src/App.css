@@ -24,6 +24,7 @@ img{
   max-width: 50%;
   margin: 0 auto;
   padding-bottom: 1rem;
+  filter:drop-shadow(0 0 5px  rgba(0, 0, 0, 0.2));
 }
 h1{
   color: cadetblue;
@@ -38,11 +39,11 @@ h1{
   flex-direction: row;
   align-items: center;
   border-radius: 2.5vh;
-  
+  box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
 }
 .Progress{
   height: 100%;
-  width: 59%;
+  width: 61%;
   background-color: darkorange;
   display: flex;
   justify-content: center;
